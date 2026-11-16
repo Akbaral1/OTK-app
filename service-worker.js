@@ -1,4 +1,4 @@
-const CACHE_NAME = 'otk-hisoblagich-v1';
+const CACHE_NAME = 'otk-hisoblagich-v2';
 const FILES_TO_CACHE = [
   './',
   './index.html',
